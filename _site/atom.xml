@@ -4,7 +4,7 @@
  <title>Hi there, I&#39;m Gal.</title>
  <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
  <link href="http://127.0.0.1:4000/"/>
- <updated>2016-04-07T00:26:19+01:00</updated>
+ <updated>2016-04-10T01:11:33+01:00</updated>
  <id>http://127.0.0.1:4000</id>
  <author>
    <name>Gal</name>
@@ -13,37 +13,46 @@
 
  
  <entry>
-   <title>Phantom</title>
-   <link href="http://127.0.0.1:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
-   <updated>2016-02-20T21:15:00+00:00</updated>
-   <id>http://127.0.0.1:4000/development/design/2016/02/20/phantom-jekyll-template</id>
+   <title>Givvit</title>
+   <link href="http://127.0.0.1:4000/development/design/2016/04/10/givvit.html"/>
+   <updated>2016-04-10T01:13:00+01:00</updated>
+   <id>http://127.0.0.1:4000/development/design/2016/04/10/givvit</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Rescue Themes</title>
-   <link href="http://127.0.0.1:4000/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T15:56:00+00:00</updated>
-   <id>http://127.0.0.1:4000/development/design/2016/02/20/rescue-themes</id>
+   <title>Dingo</title>
+   <link href="http://127.0.0.1:4000/development/design/2016/04/09/dingo.html"/>
+   <updated>2016-04-09T01:13:00+01:00</updated>
+   <id>http://127.0.0.1:4000/development/design/2016/04/09/dingo</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Weathercast</title>
-   <link href="http://127.0.0.1:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T15:56:00+00:00</updated>
-   <id>http://127.0.0.1:4000/development/2016/02/20/weathercast</id>
+   <title>Supporter</title>
+   <link href="http://127.0.0.1:4000/development/design/2016/04/09/supporter.html"/>
+   <updated>2016-04-09T01:12:00+01:00</updated>
+   <id>http://127.0.0.1:4000/development/design/2016/04/09/supporter</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Bloc Jams Angular</title>
-   <link href="http://127.0.0.1:4000/development/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T14:15:00+00:00</updated>
-   <id>http://127.0.0.1:4000/development/2016/02/20/bloc-jams-angular</id>
+   <title>Q&A Properties</title>
+   <link href="http://127.0.0.1:4000/development/design/2016/04/09/qaproperties.html"/>
+   <updated>2016-04-09T01:11:00+01:00</updated>
+   <id>http://127.0.0.1:4000/development/design/2016/04/09/qaproperties</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tocarta</title>
+   <link href="http://127.0.0.1:4000/development/design/2016/04/08/tocarta.html"/>
+   <updated>2016-04-08T01:13:00+01:00</updated>
+   <id>http://127.0.0.1:4000/development/design/2016/04/08/tocarta</id>
    <content type="html">
 </content>
  </entry>
