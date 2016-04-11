@@ -1,7 +1,7 @@
 # Site Settings
-title: "Hi there, I'm Gal."
-description: "Software Engineer - Javascript Ninja - Based in London.</br></br>"
-url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
+title: "Gal Dubitski"
+description: "Personal Site"
+url: 'http://gal.js.org' # the base hostname & protocol for your site
 nav: "false"
 footer_text: '© 2016 Gal Dubitski'
 twitter: 'gal_dubitski'

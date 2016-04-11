@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hi there, I&#39;m Gal.</title>
- <link href="http://127.0.0.1:4000/atom.xml" rel="self"/>
- <link href="http://127.0.0.1:4000/"/>
- <updated>2016-04-10T01:11:33+01:00</updated>
- <id>http://127.0.0.1:4000</id>
+ <title>Gal Dubitski</title>
+ <link href="http://gal.js.org/atom.xml" rel="self"/>
+ <link href="http://gal.js.org/"/>
+ <updated>2016-04-11T14:11:41+01:00</updated>
+ <id>http://gal.js.org</id>
  <author>
    <name>Gal</name>
    <email>galmail@gmail.com</email>
@@ -14,45 +14,45 @@
  
  <entry>
    <title>Givvit</title>
-   <link href="http://127.0.0.1:4000/development/design/2016/04/10/givvit.html"/>
+   <link href="http://gal.js.org/development/design/2016/04/10/givvit.html"/>
    <updated>2016-04-10T01:13:00+01:00</updated>
-   <id>http://127.0.0.1:4000/development/design/2016/04/10/givvit</id>
+   <id>http://gal.js.org/development/design/2016/04/10/givvit</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Dingo</title>
-   <link href="http://127.0.0.1:4000/development/design/2016/04/09/dingo.html"/>
+   <link href="http://gal.js.org/development/design/2016/04/09/dingo.html"/>
    <updated>2016-04-09T01:13:00+01:00</updated>
-   <id>http://127.0.0.1:4000/development/design/2016/04/09/dingo</id>
+   <id>http://gal.js.org/development/design/2016/04/09/dingo</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Supporter</title>
-   <link href="http://127.0.0.1:4000/development/design/2016/04/09/supporter.html"/>
+   <link href="http://gal.js.org/development/design/2016/04/09/supporter.html"/>
    <updated>2016-04-09T01:12:00+01:00</updated>
-   <id>http://127.0.0.1:4000/development/design/2016/04/09/supporter</id>
+   <id>http://gal.js.org/development/design/2016/04/09/supporter</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Q&A Properties</title>
-   <link href="http://127.0.0.1:4000/development/design/2016/04/09/qaproperties.html"/>
+   <link href="http://gal.js.org/development/design/2016/04/09/qaproperties.html"/>
    <updated>2016-04-09T01:11:00+01:00</updated>
-   <id>http://127.0.0.1:4000/development/design/2016/04/09/qaproperties</id>
+   <id>http://gal.js.org/development/design/2016/04/09/qaproperties</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
    <title>Tocarta</title>
-   <link href="http://127.0.0.1:4000/development/design/2016/04/08/tocarta.html"/>
+   <link href="http://gal.js.org/development/design/2016/04/08/tocarta.html"/>
    <updated>2016-04-08T01:13:00+01:00</updated>
-   <id>http://127.0.0.1:4000/development/design/2016/04/08/tocarta</id>
+   <id>http://gal.js.org/development/design/2016/04/08/tocarta</id>
    <content type="html">
 </content>
  </entry>
