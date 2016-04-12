@@ -9,5 +9,5 @@ featured_image: 'img/posts/qaProperties.png'
 project_link: 'https://play.google.com/store/apps/details?id=com.id1yqh8rk1dig5sy1105waj&hl=en'
 button_icon: 'flask'
 button_text: 'Visit Site'
-lead_text: "The place for the most complete questions and the most relevant answers when renting, buying, selling or looking to invest in properties in the UK. I built the mobile app and launched it on Google Play and the App Store."
+lead_text: "The place for the most complete questions and the most relevant answers when renting, buying, selling or looking to invest in properties in the UK. I built the backend with Meteor and the mobile app with Angular, Ionic and Phonegap for iOS and Android."
 ---
