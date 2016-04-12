@@ -4,7 +4,7 @@ position: right
 title: 'Q&A Properties'
 date: 2016-04-09 00:11:00
 categories: development design
-tags: Angular Ionic Phonegap Node Sass
+tags: Angular Ionic Phonegap Node Meteor
 featured_image: 'img/posts/qaProperties.png'
 project_link: 'https://play.google.com/store/apps/details?id=com.id1yqh8rk1dig5sy1105waj&hl=en'
 button_icon: 'flask'

@@ -5,8 +5,8 @@
     <description>Software Engineer - Senior Developer - Javascript Ninja - Based in London&lt;br/&gt;&lt;br/&gt;</description>
     <link>http://gal.js.org/</link>
     <atom:link href="http://gal.js.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Apr 2016 10:38:11 +0100</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 10:38:11 +0100</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 10:43:44 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 10:43:44 +0100</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -98,7 +98,7 @@
         
         <category>Node</category>
         
-        <category>Sass</category>
+        <category>Meteor</category>
         
         
         <category>development</category>
