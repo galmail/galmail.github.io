@@ -4,13 +4,22 @@
  <title>Gal Dubitski</title>
  <link href="http://gal.js.org/atom.xml" rel="self"/>
  <link href="http://gal.js.org/"/>
- <updated>2016-04-12T10:43:44+01:00</updated>
+ <updated>2016-08-22T23:01:42+01:00</updated>
  <id>http://gal.js.org</id>
  <author>
    <name>Gal</name>
    <email>galmail@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Apple</title>
+   <link href="http://gal.js.org/development/design/2016/04/11/apple.html"/>
+   <updated>2016-04-11T01:13:00+01:00</updated>
+   <id>http://gal.js.org/development/design/2016/04/11/apple</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Givvit</title>
